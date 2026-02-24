@@ -1,0 +1,28 @@
+# ============================================================================
+# Core Computer Vision Libraries
+# ============================================================================
+
+# OpenCV - The main computer vision library
+# Used for: camera access, image processing, drawing on frames, video handling
+opencv-python==4.9.0.80
+
+# MediaPipe - Google's pre-trained ML library for hand tracking
+# Used for: detecting hands and 21 landmarks per hand (including all 5 finger tips)
+# This is the KEY library that makes finger tip detection easy and accurate
+mediapipe==0.10.32
+
+# ============================================================================
+# Numerical Computing
+# ============================================================================
+
+# NumPy - For fast array/matrix operations
+# Used for: coordinate calculations, distance measurements, mathematical operations
+numpy>=1.24.3
+
+# ============================================================================
+# Optional but Useful
+# ============================================================================
+
+# Pillow - For additional image processing if needed
+# Used for: image format conversions, basic image manipulations
+Pillow==10.2.0

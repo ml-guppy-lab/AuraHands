@@ -90,6 +90,7 @@ venv.bak/
 *.onnx
 *.pb
 *.tflite
+*.task
 
 # Datasets and data files (usually too large for git)
 datasets/
