@@ -48,18 +48,19 @@ pip install opencv-python mediapipe numpy
 python auraHands.py
 
 ```
-📸 Screenshots
+## 📸 Screenshots
 
-**Fireball Generation**
+### Fireball Generation
+<image-card alt="Fireball on palms" src="4.png" ></image-card>
 
+### Yellow Eyes Masking
+<image-card alt="Yellow demon eyes" src="3.png" ></image-card>
 
-**Yellow Eyes Masking**
+### Face Landmarks Detection
+<image-card alt="Face mesh detection" src="2.png" ></image-card>
 
-
-**Face Landmarks Detection**
-
-
-**Glowing Finger Lines**
+### Glowing Finger Lines
+<image-card alt="Neon lines between fingers" src="1.png" ></image-card>
 
 
 (For the full dramatic 30-second version with Lana Del Rey "Salvatore" soundtrack and magic vibes, check out the reel on my Instagram: @TheMLGuppy)
