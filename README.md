@@ -51,16 +51,16 @@ python auraHands.py
 ## 📸 Screenshots
 
 ### Fireball Generation
-<image-card alt="Fireball on palms" src="4.png" ></image-card>
+![Fireball on palms](https://github.com/ml-guppy-lab/AuraHands/raw/main/4.png)
 
 ### Yellow Eyes Masking
-<image-card alt="Yellow demon eyes" src="3.png" ></image-card>
+![Yellow demon eyes](https://github.com/ml-guppy-lab/AuraHands/raw/main/3.png)
 
 ### Face Landmarks Detection
-<image-card alt="Face mesh detection" src="2.png" ></image-card>
+![Face mesh detection](https://github.com/ml-guppy-lab/AuraHands/raw/main/2.png)
 
 ### Glowing Finger Lines
-<image-card alt="Neon lines between fingers" src="1.png" ></image-card>
+![Neon lines between fingers](https://github.com/ml-guppy-lab/AuraHands/raw/main/1.png)
 
 
 (For the full dramatic 30-second version with Lana Del Rey "Salvatore" soundtrack and magic vibes, check out the reel on my Instagram: @TheMLGuppy)
